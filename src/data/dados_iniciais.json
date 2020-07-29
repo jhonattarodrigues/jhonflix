@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Melhores",
+      "link": "https://www.youtube.com/watch?v=TUbgBVTD7VI",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Só os selecionados, só os bons mesmo!",
+        "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
+      },
+      "videos": [
+        {
+          "titulo": "Assassins Creed: Valhalla - O trailer ficou bom, mas será que o game também vai estar? Ubisoooooooft!",
+          "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
+        },
+        {
+          "titulo": "Morbius, trailer insano",
+          "url": "https://youtu.be/Qbfhtw5SmXs"
+        },
+        {
+          "titulo": "Trailerzera brabo!",
+          "url": "https://youtu.be/Zd7T8Gw1-jg"
+        },
+        {
+          "titulo": "Essa trilha sonora ganha qualquer um!",
+          "url": "https://youtu.be/xoUJXoxzAPs"
+        },
+        {
+          "titulo": "É fast furious né filhao!",
+          "url": "https://youtu.be/yw3LOfN7wEU"
+        },
+        {
+          "titulo": "Tinha que ter MCU!",
+          "url": "https://youtu.be/Lk7LPTq0_XY"
+        },
+        {
+          "titulo": "Podemos chamar já de velhos mutantes com o tempo que ta demorando pra sair esse filme!",
+          "url": "https://youtu.be/CVuyTQN7yjc"
+        },
+        {
+          "titulo": "Far cry 6 promete ser bom, mas uma vez UBISOOOOOFT haha",
+          "url": "https://youtu.be/DqgbdEsmrK4?list=RDCMUC2eb58Gxb613nJDjpuwWmgg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "PS5 vem aí!",
+        "url": "https://youtu.be/RkC0l4iekYo"
+      },
+      "videos": [
+        {
+          "titulo": "Novo game do Homem aranha, só eu que estou no hype?",
+          "url": "https://youtu.be/VoPt5wSazHE?list=RDCMUC2eb58Gxb613nJDjpuwWmgg"
+        },
+        {
+          "titulo": "Outro Game maravilhoso que promete nessa nova geração",
+          "url": "https://youtu.be/Lq594XmpPBg"
+        },
+        {
+          "titulo": "NBA 2k21 promete ? ou mais do mesmo?",
+          "url": "https://youtu.be/0NSQahGpqv0"
+        },
+        {
+          "titulo": "Que lindeza de trailerr!!",
+          "url": "https://youtu.be/oz-O74SmTSQ"
+        }, 
+        {
+          "titulo": "Project - Athia Square Enix não me decepcioneeee, porque tô no hypeee",
+          "url": "https://youtu.be/doe3kUqHIcM"
+        }
+      ]
+    },
+    {
+      "titulo": "Romanticos",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Aqueles trailers cheio de s2",
+        "url": "https://www.youtube.com/watch?v=dQNLQcynwXc"
+      },
+      "videos": [
+        {
+          "titulo": "Uma linda mulher",
+          "url": "https://www.youtube.com/watch?v=Vi8vDGq3vFc"
+        },
+        {
+          "titulo": "Barraca do beijo 2",
+          "url": "https://www.youtube.com/watch?v=lWImVp38gy4"
+        },
+        {
+          "titulo": "Newness",
+          "url": "https://www.youtube.com/watch?v=vExYF9n-Atk"
+        },
+        {
+          "titulo": "Um dia de chuva em Nova York",
+          "url": "https://www.youtube.com/watch?v=vevZQ6UwdUY"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Greys Anatomy",
+          "url": "https://www.youtube.com/watch?v=DXLoA6TYJS8"
+        },
+        {
+          "titulo": "Como vender drogas online?(rápido)",
+          "url": "https://www.youtube.com/watch?v=jwiCmA5vX-A"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=6EhDKaWLJgg"
+        },
+        {
+          "titulo": "The Sinner",
+          "url": "https://www.youtube.com/watch?v=cuIEEBzMhtQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Animação",
+      "cor": "red",
+      "link_extra": {
+        "text": "Os mais atuais trailer's de animação",
+        "url": "https://www.youtube.com/watch?v=PHZVmNn5wzA"
+      },
+      "videos": [
+        {
+          "titulo": "Scooby-doo",
+          "url": "https://www.youtube.com/watch?v=b15_u5wYB0I"
+        },
+        {
+          "titulo": "Minions 2",
+          "url": "https://www.youtube.com/watch?v=VhGAAacDwEE"
+        },
+        {
+          "titulo": "Sapatinho vermelho e os Sete anões",
+          "url": "https://www.youtube.com/watch?v=X9eJG6n20SY"
+        },
+        {
+          "titulo": "Super Conectados",
+          "url": "https://www.youtube.com/watch?v=q0FxrQu8_BU"
+        },
+        {
+          "titulo": "Os brinquedos Mágicos",
+          "url": "https://www.youtube.com/watch?v=qzLdYBZLYBk"
+        }
+      ]
+    },
+    {
+      "titulo": "Ação",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Trailers dos melhores filmes de ação",
+        "url": "https://www.youtube.com/watch?v=NBdcnBdQhOY"
+      },
+      "videos": [
+        {
+          "titulo": "Resgate",
+          "url": "https://www.youtube.com/watch?v=GMKKq_bYd0E"
+        },
+        {
+          "titulo": "The old guard",
+          "url": "https://www.youtube.com/watch?v=FaY7GammPDw"
+        },
+        {
+          "titulo": "Bloodshot",
+          "url": "https://www.youtube.com/watch?v=JbmekdTqrWw"
+        },
+        {
+          "titulo": "Bad boys 3",
+          "url": "https://www.youtube.com/watch?v=8zQhoiJfrvU"
+        },
+        {
+          "titulo": "James bond- sem tempo pra morrer",
+          "url": "https://www.youtube.com/watch?v=0nQ0hCRlHwM"
+        }
+      ]
+    }
+  ]
+}
